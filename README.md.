@@ -1,0 +1,30 @@
+# CodeAlpha Ecommerce Sales Analysis
+
+## Project Overview
+This project performs Exploratory Data Analysis (EDA) and Data Visualization on an e-commerce sales dataset.
+
+## Objectives
+- Analyze sales and profit performance
+- Compare different product categories
+- Analyze regional sales
+- Identify top-selling products
+- Study the relationship between sales and profit
+- Check data quality
+
+## Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+- GitHub
+
+## Tasks Completed
+- Task 2: Exploratory Data Analysis
+- Task 3: Data Visualization
+
+## Dataset
+Sample Superstore dataset.
+
+## Conclusion
+The project demonstrates how Python-based data analysis and visualization can be used to identify useful patterns and insights from e-commerce sales data.
